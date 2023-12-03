@@ -29,7 +29,8 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![Alt text](sqrtofnum.png)
+
+![sqrtofnum](https://github.com/marcoyoi/Square-root-of-a-number/assets/128804366/31164307-0544-4a91-9e8a-530a08e8e4b0)
 
 
 ## Result:
